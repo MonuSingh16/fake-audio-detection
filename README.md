@@ -2,7 +2,7 @@
 
 This project provides a machine learning-based system for detecting fraudulent audio recordings, specifically targeting audio deepfakes, using advanced deep learning techniques. Our aim is to enhance security measures against voice impersonation and manipulation in various applications.
 
-🚀 Features
+### 🚀 Features
 
 The system uses a combination of:
 
